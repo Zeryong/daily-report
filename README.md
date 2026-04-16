@@ -1,4 +1,4 @@
-# git-report
+# daily-report
 
 一个 XXXCode Skill，自动扫描本地 Git 仓库的提交记录，生成结构化工作日报，并发布为飞书云文档。
 
